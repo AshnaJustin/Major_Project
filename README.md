@@ -23,3 +23,5 @@ Model Training: Detailed explanation of the training process for YOLOv8s and CNN
 Results: Presentation of the model's performance metrics and validation outputs.Show sample outputs from the validation set, highlighting the model's detection and classification capabilities.
 
 Visualization: Tools for visualizing detection results and gender classification data.
+
+
