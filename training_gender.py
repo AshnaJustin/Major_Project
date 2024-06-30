@@ -71,7 +71,7 @@ history = model.fit(
 )
 
 # Save the model
-model.save('gender_classification_cnn.h5')
+model.save('gender_classification_model.h5')
 
 # Plot the training and validation accuracy and loss
 import matplotlib.pyplot as plt
